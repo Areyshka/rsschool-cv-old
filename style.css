@@ -1,0 +1,56 @@
+.header {
+    font: small-caps 24px Arial sans-serif;
+    border: 5px solid #6e62a7
+}
+.table-header{
+    padding-left: 770px;
+    border-spacing: 15px;
+
+}
+.nav-item {
+    color: black;
+}
+.body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color:rgb(169, 207, 213);
+  }
+.section-profile-title {
+    display: flex;
+    justify-content: center;
+}
+.img-photo {
+    height: 250px;
+    width: 250px;
+    margin: 15px;
+    float: left;
+    border-radius: 130px;
+}
+.section-title-main {
+    font-size: 30px;
+    margin-top: 200px;
+    margin-right: 220px;
+}
+.section-title {
+    font: small-caps 28px Arial sans-serif;
+    text-align: center;
+    color: black;
+    letter-spacing: 2px;
+}
+.section {
+    text-align: center;
+    font-size: 18px;
+    font-family: Arial sans-serif ;
+    color: rgb(52, 52, 52);
+}
+.footer {
+    text-align: center;
+    color: black;
+    font: small-caps 15px Arial sans-serif;
+}
+.points {
+    text-align: center;
+    margin: 0 auto;
+    width: 190px;
+}
